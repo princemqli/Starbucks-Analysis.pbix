@@ -40,6 +40,8 @@ The data was cleaned, transformed, and modeled using Power Query and Power BI Da
 ---
 
 # 🏗 Data Model
+<img width="1113" height="809" alt="Dax Modeling" src="https://github.com/user-attachments/assets/f199eb4d-3b0f-4364-9e18-5fdea9c495ad" />
+
 
 This project follows a Star Schema Data Model for optimal reporting performance.
 
