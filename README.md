@@ -4,7 +4,7 @@
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 The Starbucks Sales Analysis Dashboard is a comprehensive Business Intelligence solution developed using Power BI. This project transforms raw sales data into actionable business insights through interactive visualizations, KPI tracking, and advanced analytics.
 
@@ -12,7 +12,7 @@ The dashboard enables decision-makers to monitor business performance, identify 
 
 ---
 
-# 🎯 Business Objectives
+#  Business Objectives
 
 - Analyze overall sales performance.
 - Track revenue growth and trends.
@@ -23,7 +23,7 @@ The dashboard enables decision-makers to monitor business performance, identify 
 
 ---
 
-# 📂 Dataset Information
+#  Dataset Information
 
 The dataset contains Starbucks transactional sales records including:
 
@@ -39,7 +39,7 @@ The data was cleaned, transformed, and modeled using Power Query and Power BI Da
 
 ---
 
-# 🏗 Data Model
+#  Data Model
 <img width="1113" height="809" alt="Dax Modeling" src="https://github.com/user-attachments/assets/f199eb4d-3b0f-4364-9e18-5fdea9c495ad" />
 
 
@@ -60,7 +60,7 @@ This project follows a Star Schema Data Model for optimal reporting performance.
 
 ---
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 ### Business Intelligence
 - Power BI Desktop
@@ -79,7 +79,7 @@ This project follows a Star Schema Data Model for optimal reporting performance.
 
 ---
 
-# 📊 Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs)
 
 | KPI | Description |
 |------|------------|
@@ -93,7 +93,7 @@ This project follows a Star Schema Data Model for optimal reporting performance.
 
 ---
 
-# ⚡ DAX Measures Used
+# DAX Measures Used
 
 ```DAX
 Total Sales =
@@ -132,7 +132,7 @@ CALCULATE(
 
 ---
 
-# 📈 Dashboard Features
+# Dashboard Features
 
 ## Executive Summary
 
@@ -195,7 +195,7 @@ CALCULATE(
 
 ---
 
-# 🔄 Power Query Transformations
+# Power Query Transformations
 <img width="1710" height="982" alt="startbucks" src="https://github.com/user-attachments/assets/02fa46bc-7ff6-402d-b1e3-cc55ac9196cb" />
 <img width="1710" height="982" alt="Directory" src="https://github.com/user-attachments/assets/9fffd378-2841-46fd-b37c-5d2fecf01464" />
 
@@ -212,7 +212,7 @@ The following transformations were performed:
 
 ---
 
-# 💡 Business Insights
+#  Business Insights
 
 ### Revenue Insights
 
@@ -237,7 +237,7 @@ The following transformations were performed:
 
 ---
 
-# 🚀 Business Impact
+#  Business Impact
 
 This dashboard helps businesses:
 
@@ -255,23 +255,9 @@ This dashboard helps businesses:
 
 ---
 
-# 📷 Dashboard Preview
-
-## Executive Dashboard
-(Add Screenshot Here)
-
-## Sales Analysis Dashboard
-(Add Screenshot Here)
-
-## Product Performance Dashboard
-(Add Screenshot Here)
-
-## Customer Insights Dashboard
-(Add Screenshot Here)
-
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 - Sales Forecasting
 - Predictive Analytics
@@ -280,12 +266,6 @@ This dashboard helps businesses:
 - Advanced KPI Tracking
 
 ---
-
-# 👨‍💻 Author
-
-## Prince
-
-BCA Student | Data Science Enthusiast | Power BI Developer
 
 ### Skills
 - Power BI
@@ -297,32 +277,27 @@ BCA Student | Data Science Enthusiast | Power BI Developer
 
 ---
 
-# ⭐ Project Highlights
+# Project Highlights
 
-✅ End-to-End Power BI Project
+- End-to-End Power BI Project
 
-✅ Data Cleaning using Power Query
+- Data Cleaning using Power Query
 
-✅ Star Schema Data Modeling
+- Star Schema Data Modeling
 
-✅ Advanced DAX Measures
+- Advanced DAX Measures
 
-✅ Interactive Dashboard Design
+- Interactive Dashboard Design
 
-✅ Business KPI Tracking
+- Business KPI Tracking
 
-✅ Data-Driven Insights
+- Data-Driven Insights
 
-✅ Professional Reporting Solution
-
----
-
-## 📬 Connect With Me
-
-- LinkedIn: Add Your LinkedIn Profile
-- GitHub: Add Your GitHub Profile
+- Professional Reporting Solution
 
 ---
 
-### ⭐ If you found this project useful, consider giving it a star.
-### ☕ Thank you for visiting this repository.
+---
+
+###  If you found this project useful, consider giving it a star.
+###  Thank you for visiting this repository.
