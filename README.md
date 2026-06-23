@@ -1,4 +1,4 @@
-# Starbucks Sales Analysis Dashboard
+# Dashboard
 <img width="1278" height="719" alt="Dashboard" src="https://github.com/user-attachments/assets/d503a94d-14cc-4cda-901b-e097d27e7988" />
 
 
@@ -196,6 +196,9 @@ CALCULATE(
 ---
 
 # 🔄 Power Query Transformations
+<img width="1710" height="982" alt="startbucks" src="https://github.com/user-attachments/assets/02fa46bc-7ff6-402d-b1e3-cc55ac9196cb" />
+<img width="1710" height="982" alt="Directory" src="https://github.com/user-attachments/assets/9fffd378-2841-46fd-b37c-5d2fecf01464" />
+
 
 The following transformations were performed:
 
