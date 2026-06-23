@@ -1,19 +1,6 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg" width="220">
-</p>
+# Starbucks Sales Analysis Dashboard
+<img width="1278" height="719" alt="Dashboard" src="https://github.com/user-attachments/assets/d503a94d-14cc-4cda-901b-e097d27e7988" />
 
-<h1 align="center">☕ Starbucks Sales Analysis Dashboard</h1>
-
-<p align="center">
-A Professional Power BI Dashboard for Sales Performance, Product Analytics, Customer Insights, and Business Intelligence
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow">
-  <img src="https://img.shields.io/badge/DAX-Analytics-blue">
-  <img src="https://img.shields.io/badge/Power%20Query-ETL-green">
-  <img src="https://img.shields.io/badge/Business%20Intelligence-Reporting-success">
-</p>
 
 ---
 
