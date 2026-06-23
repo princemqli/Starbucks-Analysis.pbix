@@ -169,7 +169,7 @@ CALCULATE(
 
 ---
 
-# 📊 Visualizations Used
+# Visualizations Used
 
 ### KPI Cards
 - Total Sales
